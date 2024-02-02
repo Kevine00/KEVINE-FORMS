@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../umubyeyi kevine website"
+		},
+		{
+			"path": "../KEVINE NAVIGATION"
+		},
+		{
+			"path": "../KEVINE TABLE BOOTSTRAP"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "KEVINE TABLE BOOTSTRAP"
+	}
+}
